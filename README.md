@@ -1,7 +1,7 @@
 - 👋 Hi, nice to meet you. My name is Ortal Lasry @ortall0201
 - 👀 My interests are AI & Data Science.
 - 🌱 Certified Data Scientist - class of 2025 @ Naya College.
-- ⚡Certified Project Management (including Agile methodologies & AMI certified Scrum Master).
+- ⚡Certified Project Management (including Agile methodologies & AMI certified Scrum Master) @ Kinneret Academy College (class of 2024).
 - ⚡BSc. in Chemical Engeneering (class of 2012 @ Ben Gurion University).
 - ⚡Led R&D for Alkaline fuel cell technology optimized industrial flow processes using chemical equipment for analyzing & reporting.
 - 😄 Creativity is my middle name.
