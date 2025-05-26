@@ -40,7 +40,7 @@ As part of a global collaboration, I co-led development and core architecture fo
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/ortal-lasry-3232252b6) • [Kaggle](https://www.kaggle.com/ortall0201)
+[LinkedIn](https://www.linkedin.com/in/ortal-lasry-3232252b6) • [Kaggle](https://www.kaggle.com/ortaly)
 
 
 
